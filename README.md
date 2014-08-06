@@ -188,3 +188,7 @@ But be careful, it is in beta stage.
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md)
+
+## License
+
+See [LICENSE](LICENSE) 
